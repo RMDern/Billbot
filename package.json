@@ -1,0 +1,22 @@
+{
+  "name": "billbot",
+  "version": "0.0.1",
+  "description": "Tweets about new actions taken regarding bills in US Congress.",
+  "main": "billbot.js",
+  "scripts": {
+    "start": "node billbot.js",
+    "production": "NODE_ENV=production&& npm start",
+    "development": "set NODE_ENV=development&& npm start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ryan Dern",
+  "license": "MIT",
+  "dependencies": {
+    "bitly": "^6.0.8",
+    "dotenv-safe": "^6.1.0",
+    "google-trends-api": "^4.7.0",
+    "jquery": "^3.3.1",
+    "jsdom": "^13.0.0",
+    "twit": "^2.2.11"
+  }
+}
