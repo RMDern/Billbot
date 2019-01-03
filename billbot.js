@@ -1,8 +1,8 @@
 /*
  *  billbot.js
  *
- *  @author: https://github.com/RMDern
- *  @repo:   
+ *  @author: Ryan Dern
+ *  @repo:   https://github.com/RMDern/Billbot 
  *  @mailto: rdern@pm.me
  */
 
