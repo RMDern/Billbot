@@ -1,7 +1,7 @@
 [![MIT license](http://img.shields.io/badge/license-MIT-brightgreen.svg)](http://opensource.org/licenses/MIT) 
 ![](https://img.shields.io/github/repo-size/rmdern/billbot.svg) 
 ![](https://img.shields.io/npm/collaborators/billbot.svg)
-![](https://img.shields.io/twitter/follow/botcongress.svg?label=Follow&style=social)
+[![](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/BotCongress)
 # Billbot
 
 Billbot is a [Twitter](https://twitter.com/BotCongress) bot created with Node.js and deployed to Heroku.
