@@ -1,5 +1,5 @@
 /*
- *  billbot.js
+ *  billbot.js 
  *
  *  @author:     Ryan Dern
  *  @mailto:     <rdern@pm.me>
