@@ -1,4 +1,4 @@
-[![](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/BotCongress) [![](https://img.shields.io/github/license/:user/:repo.svg)](https://github.com/RMDern/Billbot/blob/master/LICENSE) [![](https://img.shields.io/node/v/:packageName.svg)](https://nodejs.org/en/) ![](https://img.shields.io/david/:user/:repo.svg)
+[![](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/BotCongress) [![](https://img.shields.io/github/license/:user/:repo.svg)](https://github.com/RMDern/Billbot/blob/master/LICENSE) [![](https://img.shields.io/node/v/:packageName.svg)](https://nodejs.org/en/)
 # Billbot
 
 Billbot is a [Twitter](https://twitter.com/BotCongress) bot created with Node.js and deployed to Heroku.
