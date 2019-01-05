@@ -6,6 +6,7 @@
  *  @repo:       https://github.com/RMDern/Billbot 
  *  @production: https://twitter.com/BotCongress
  */
+require('newrelic'); // Availability monitoring
 
 console.log('@NODE_ENV = ' + process.env.NODE_ENV + ' >> BILLBOT: Running...\n');
 
