@@ -34,7 +34,7 @@ jobs:
       - run:
           name: Approval Complete
           command: |
-            echo 'Do work once the approval has completed'
+            npm start
 
 workflows:
  version: 2
